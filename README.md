@@ -1,3 +1,3 @@
-![SVG Image](./banner.svg)
-![SVG Image](./secondarybanner.svg)
+![SVG Image](./1.svg)
+![SVG Image](./2.svg)
 
