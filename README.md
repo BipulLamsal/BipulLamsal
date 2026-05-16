@@ -1,6 +1,5 @@
-<p><code>
-Hi, I am Bipul.<br>
-I mostly do rust, doing recreational programming every now and then. <br>
-Most of my project are unfinished; uncleaned & raw.
-</code>
-</p>
+𝙷𝚒, 𝚒 𝚊𝚖 𝙱𝚒𝚙𝚞𝚕.
+
+𝙸 𝚖𝚘𝚜𝚝𝚕𝚢 𝚍𝚘 𝚁𝚞𝚜𝚝, 𝚍𝚘𝚒𝚗𝚐 𝚛𝚎𝚌𝚛𝚎𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚎𝚟𝚎𝚛𝚢 𝚗𝚘𝚠 𝚊𝚗𝚍 𝚝𝚑𝚎𝚗.
+
+𝙼𝚘𝚜𝚝 𝚘𝚏 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚛𝚎 𝚞𝚗𝚏𝚒𝚗𝚒𝚜𝚑𝚎𝚍; 𝚞𝚗𝚌𝚕𝚎𝚊𝚗𝚎𝚍 & 𝚛𝚊𝚠.
