@@ -1,2 +1,4 @@
-Definitely a rust freak; Also loves C. 
-Currently Learning the both inside and out, and in a void.
+    Hi, I am Bipul.
+    I mostly do rust, doing recreational programming every now and then.
+    Most of my project are unfinished; uncleaned & raw
+    
